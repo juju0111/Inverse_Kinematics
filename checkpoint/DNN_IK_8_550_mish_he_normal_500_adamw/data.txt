@@ -1,0 +1,4 @@
+input : pos = 원래 그대로  orientation = 0~2pi
+
+output : ths = 0~2pi
+
